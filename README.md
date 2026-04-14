@@ -2,16 +2,29 @@
 
 Reproducible framework for evaluating and documenting Large Language Model (LLM) behavior under the **Systematic Excellence Protocol (SEP)**.
 
-## 🎯 Project Objective
-This repository serves as a standardized base for testing, documenting, and comparing LLM responses across different sessions and models. It ensures that evaluations are traceable, reproducible, and structured according to professional engineering standards.
+## 🚀 Case Study: Systematic Excellence Protocol (SEP)
 
-## 📂 Repository Structure
-- `/protocol/`: Master SEP guidelines and evaluation rubrics.
-- `/prompts/`: Standardized test cases (Clinical, Programming, Education, Theory).
-- `/sessions/`: Templates for logging individual model interactions.
-- `/artifacts/`: Storage for raw responses, generated reports, and figures.
-- `/docs/`: Methodology, results summary, and reproducibility guides.
-- `/environment/`: Requirements and technical configuration notes.
+> [!IMPORTANT]
+> **Misión**: Validar un protocolo operativo (SEP) que permita trabajar con LLMs de forma estructurada, segura y reproducible en dominios críticos.
+
+Este repositorio no es solo una colección de archivos; es un **objeto científico** diseñado para evaluar si un flujo de 4 fases (Análisis, Plan, Ejecución, Feedback) puede imponer un patrón estable y seguro en la respuesta de las IAs.
+
+### 🎯 Objetivos Estratégicos
+- **H1 — Estabilidad**: Verificar si la estructura mejora la calidad de respuesta.
+- **H2 — Transferibilidad**: Aplicar el mismo patrón en salud, código y teoría.
+- **H3 — Seguridad**: Sinergia entre SEP y los guardrails del modelo.
+
+### 📖 [Leer Caso de Estudio Completo](docs/case_study_sep.md)
+
+---
+
+## 📂 Estructura del Repositorio
+- **/context/**: Evidencia histórica (Preprints) y casos de estudio detallados.
+- **/protocol/**: Guías maestras del SEP y rúbricas de evaluación.
+- **/prompts/**: Casos de prueba estandarizados (Clínico, Programación, Educación, Teoría).
+- **/sessions/**: Registro de interacciones individuales y logs de benchmark.
+- **/docs/**: Metodología, resultados y guías de reproducibilidad.
+
 
 ## 🚀 Getting Started
 ### 1. Cloning the Repository
