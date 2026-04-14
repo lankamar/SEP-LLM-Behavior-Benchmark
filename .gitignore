@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data & Artifacts
+artifacts/raw_responses/*
+!artifacts/raw_responses/.gitkeep
+artifacts/generated_reports/*
+!artifacts/generated_reports/.gitkeep
+artifacts/figures/*
+!artifacts/figures/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
