@@ -1,0 +1,60 @@
+{
+  "title": "Systematic Excellence Protocol (SEP-LLM-Behavior-Benchmark): Evaluación Multidominio, Ingeniería del Caos y Telemetría Reproducible en Grandes Modelos de Lenguaje",
+  "version": "2.0.0",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "publication_date": "2026-11-16",
+  "creators": [
+    {
+      "name": "Lancry Kamycki, Marcelo Omar",
+      "affiliation": "Hospital de Clínicas 'José de San Martín', Universidad de Buenos Aires (UBA) · Centro de Innovación en Tecnología y Pedagogía (CITEP-UBA)",
+      "orcid": "0009-0008-8196-6291"
+    }
+  ],
+  "description": "<p>El presente trabajo documenta el diseño, la arquitectura de evaluación y las pruebas de estrés del <strong>Systematic Excellence Protocol (SEP)</strong> y su banco de pruebas abierto <strong>SEP-LLM-Behavior-Benchmark</strong>, enmarcado en la Metodología de Investigación en Ciencia del Diseño (DSRM; Peffers et al., 2007), el ciclo PDCA (Deming, 1986) y la Ingeniería del Caos (Basiri et al., 2016).</p>",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "spa",
+  "keywords": [
+    "Large Language Models",
+    "Systematic Excellence Protocol",
+    "Chaos Engineering",
+    "Scientific Reproducibility",
+    "AI Hallucinations",
+    "Design Science Research",
+    "LANKAMAR"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/lankamar/SEP-LLM-Behavior-Benchmark",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://lankamar.github.io/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "10.5281/zenodo.18904436",
+      "relation": "references",
+      "resource_type": "publication-workingpaper"
+    },
+    {
+      "identifier": "10.5281/zenodo.24269024",
+      "relation": "references",
+      "resource_type": "publication-workingpaper"
+    }
+  ],
+  "references": [
+    "Basiri, A., Behnam, N., de Rooij, R., Hochstein, L., Kosewski, L., Reynolds, J., & Rosenthal, C. (2016). Chaos engineering. IEEE Software, 33(3), 35-41. https://doi.org/10.1109/MS.2016.60",
+    "Deming, W. E. (1986). Out of the crisis. MIT Press.",
+    "Ji, Z., Lee, N., Frieske, R., Yu, T., Su, D., Xu, Y., Ishii, E., Bang, Y. J., Madotto, A., & Fung, P. (2023). Survey of hallucination in natural language generation. ACM Computing Surveys, 55(12), Article 248, 1-38. https://doi.org/10.1145/3571730",
+    "Lancry Kamycki, M. O. (2026a). Pragmatic alignment of large language models through intensity-weighted feedback markers: An empirical field study (Version 2.0.0). Zenodo. https://doi.org/10.5281/zenodo.18904436",
+    "Lancry Kamycki, M. O. (2026b). Heutagogic Narration Protocol (HNP): Aprendizaje autodeterminado, interpretabilidad agéntica por diseño y prevención de inversión de roles en grandes modelos de lenguaje (Version 2.0.0). Zenodo. https://doi.org/10.5281/zenodo.24269024",
+    "Maynez, J., Narayan, S., Bohnet, B., & McDonald, R. (2020). On faithfulness and factuality in abstractive summarization. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 1906-1919). https://doi.org/10.18653/v1/2020.acl-main.173",
+    "Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), Article aac4716. https://doi.org/10.1126/science.aac4716",
+    "Peffers, K., Tuunanen, T., Rothenberger, M. A., & Chatterjee, S. (2007). A design science research methodology for information systems research. Journal of Management Information Systems, 24(3), 45-77. https://doi.org/10.2753/MIS0742-1222240302",
+    "Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction (2nd ed.). MIT Press."
+  ]
+}

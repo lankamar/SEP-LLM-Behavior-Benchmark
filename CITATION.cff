@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+title: "Systematic Excellence Protocol (SEP-LLM-Behavior-Benchmark): Evaluación Multidominio, Ingeniería del Caos y Telemetría Reproducible en Grandes Modelos de Lenguaje"
+message: "Si utilizás este benchmark, protocolo o rúbrica de evaluación en tu investigación o docencia, por favor citalo con los siguientes metadatos (Norma APA 7.ª edición)."
+type: software
+authors:
+  - family-names: "Lancry Kamycki"
+    given-names: "Marcelo Omar"
+    orcid: "https://orcid.org/0009-0008-8196-6291"
+    affiliation: "Hospital de Clínicas 'José de San Martín', Universidad de Buenos Aires (UBA) · Centro de Innovación en Tecnología y Pedagogía (CITEP-UBA)"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24269182
+    description: "Zenodo DOI (Version 2.0.0 — APA 7th ed. Verified)"
+  - type: doi
+    value: 10.5281/zenodo.24269181
+    description: "Zenodo Concept DOI (All versions)"
+repository-code: "https://github.com/lankamar/SEP-LLM-Behavior-Benchmark"
+url: "https://lankamar.github.io/"
+abstract: >-
+  Reproducible framework for evaluating and documenting Large Language Model (LLM)
+  behavior under the Systematic Excellence Protocol (SEP), a structured four-phase
+  workflow (Analysis, Planning, Execution, and Telemetry/Feedback) grounded in Design
+  Science Research Methodology (DSRM), the PDCA cycle, and Chaos Engineering across
+  clinical triage, software refactoring, nursing safety education, and adversarial prompts.
+keywords:
+  - "large language models"
+  - "systematic excellence protocol"
+  - "chaos engineering"
+  - "scientific reproducibility"
+  - "AI hallucinations"
+  - "design science research"
+license: MIT
+version: 2.0.0
+date-released: "2026-11-16"
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Lancry Kamycki"
+      given-names: "Marcelo Omar"
+      orcid: "https://orcid.org/0009-0008-8196-6291"
+      affiliation: "Hospital de Clínicas 'José de San Martín', Universidad de Buenos Aires (UBA) · CITEP-UBA"
+  title: "Systematic Excellence Protocol (SEP-LLM-Behavior-Benchmark): Evaluación Multidominio, Ingeniería del Caos y Telemetría Reproducible en Grandes Modelos de Lenguaje (Version 2.0.0)"
+  year: 2026
+  institution:
+    name: "Zenodo / Universidad de Buenos Aires (UBA)"
+  doi: 10.5281/zenodo.24269182
+  url: "https://doi.org/10.5281/zenodo.24269181"
